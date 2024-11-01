@@ -1,3 +1,4 @@
 # sample-repo
-git練習用
-1
+
+git 練習用
+ローカルで更新
