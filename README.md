@@ -1,3 +1,3 @@
 # sample-repo
 git練習用
-1
+リモートで更新
